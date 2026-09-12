@@ -3,7 +3,7 @@
 **Sürüm:** 0.1
 
 ## Açıklama
-𐱅𐰇𐰼𐰜, Türkçe dil desteği olmayan oyunlardaki İngilizce altyazıları otomatik okuyup Türkçeye çeviren ücretsiz bir masaüstü uygulamasıdır. Oyundaki altyazı bölgesini seçersin, program o bölgeyi düzenli aralıklarla fotoğraflayıp yazıyı okur (OCR) ve çeviriyi oyun üstünde duran bir pencerede gösterir.
+Bu uygulama Türkçe dil desteği olmayan oyunlar için geliştirilmiştir. Uygulamanın amacı oyunculara daha keyifli bir oyun deneyimi vermektir.
 
 ## Sistem Gereksinimleri
 - Windows 10 / 11 (64 bit)
